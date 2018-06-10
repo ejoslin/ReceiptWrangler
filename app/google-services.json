@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "807996675702",
+    "firebase_url": "https://national-health-club-demo3.firebaseio.com",
+    "project_id": "national-health-club-demo3",
+    "storage_bucket": "national-health-club-demo3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807996675702:android:52896f178be2157a",
+        "android_client_info": {
+          "package_name": "com.maeros.receiptwrangler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807996675702-3taul6s0re2eu9morkt5q8ck8kf20uut.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "807996675702-3taul6s0re2eu9morkt5q8ck8kf20uut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-j4OQDdfmKGd9UOxgkZhI4AhWh4DXQT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
